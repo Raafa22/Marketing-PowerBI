@@ -14,4 +14,7 @@ Análise Geográfica de Vendas: Mapeamento de vendas por país e região, identi
 
 Suporte à Campanha de Marketing: Indicadores para embasar a tomada de decisão sobre onde investir recursos de mídia e qual mensagem direcionar para cada segmento de cliente.
 
+Tecnologias Utilizadas:Microsoft Power BI,Power Query,DAX,CSV,GitHub
+
+
 Nota: Todos os dados utilizados neste projeto são inteiramente fictícios, tendo sido gerados e estruturados exclusivamente para fins acadêmicos e de demonstração prática das funcionalidades do Power BI.
